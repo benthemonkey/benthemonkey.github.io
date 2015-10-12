@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Ben Rothman",
+    "label": "Full-Stack Developer",
+    "email": "BenSRothman@gmail.com",
+    "phone": "(847) 920 - 8236",
+    "picture": "http://gravatar.com/avatar/bb85bdc9929091511bb94b3660afc44f.png?s=200",
+    "website": "http://www.bensrothman.com",
+    "summary": "I am a detail-oriented developer with a focus on producing clean, modular, and—above all—maintainable code. Fun fact: During my first year at Northwestern University, I constructed the university's Evanston Campus in the video game Minecraft and printed it in 3D.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "Illinois"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "benthemonkey",
+        "url": "https://github.com/benthemonkey/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bensrothman@gmail.com",
+        "url": "http://www.linkedin.com/in/bensrothman"
+      },
+      {
+        "network": "Facebook",
+        "username": "bensrothman@gmail.com",
+        "url": "http://www.facebook.com/bensrothman"
+      },
+      {
+        "network": "Twitter",
+        "username": "bensrothman",
+        "url": "http://www.twitter.com/bensrothman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Shmoop University Inc",
+      "position": "Software Developer",
+      "website": "http://www.shmoop.com",
+      "startDate": "2015-07-01",
+      "endDate": "",
+      "highlights": [
+        "Migrated legacy search and video transcoding services to reusable API",
+        "Front-end optimization, including reducing size of served Stylesheets by 30%"
+      ]
+    },
+    {
+      "company": "Delta Lab - Northwestern University",
+      "position": "Undergraduate Researcher",
+      "website": "http://delta.northwestern.edu/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-03-01",
+      "highlights": [
+        "Research and Development with a small team to create crowdsourced learning platform",
+        "Prototyped application that supports real-time CSS living-style-guide creation"
+      ]
+    },
+    {
+      "company": "Shmoop University Inc",
+      "position": "Software Development Co-op",
+      "website": "http://www.shmoop.com",
+      "startDate": "2012-06-01",
+      "endDate": "2014-09-01",
+      "summary": "",
+      "highlights": [
+        "Proposed and lead effort to overhaul front-end with modular, concise JS/CSS. Began migration to Bootstrap 3, Sass, Gulp + Browserify and established code quality/style guidelines",
+        "Oversaw new interns’ contributions to Math Shack (began summer 2012). Enforced code quality standards and reviewed interns’ code for efficiency and clarity",
+        "Developed load testing method with AWS micro-instances to help spot bottlenecks",
+        "Created real-time data analytics dashboard with Node and Redis",
+        "Built Geometry exercise framework for student manipulation of 3D shapes in HTML5 Canvas"
+      ]
+    },
+    {
+      "company": "Applied Mathematics Department - Northwsetern University",
+      "position": "Research Assistant",
+      "startDate": "2011-07-01",
+      "endDate": "2011-08-31",
+      "highlights": [
+        "Wrote automated 3D mesh generation software in MATLAB using layered scans of carotid artery"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Points Center",
+      "position": "Slivka Residential College",
+      "website": "http://slivka.northwestern.edu/points/",
+      "startDate": "2013-03-01",
+      "endDate": "",
+      "summary": "Provides quick access to student's event attendance points, which are used to determine housing eligibility.",
+      "highlights": [
+        "Utilizes PHP, MySQL for backend",
+        "Frontend implemented using Grunt (then Gulp), jQuery, Highcharts, DataTables, etc."
+      ]
+    },
+    {
+      "organization": "Giftique",
+      "position": "Northwestern University NUVention: Web",
+      "website": "http://www.giftique.me",
+      "startDate": "2012-12-01",
+      "endDate": "2013-06-01",
+      "summary": "\"Translating your relationships into gifts crafted with love.\" Giftique is a gift recommendation engine leveraging user input and social media platforms to deliver unique and thoughtful gifts. Part of NUvention:Web course through Northwestern's Farley Center for Innovation and Entrepreneurship.",
+      "highlights": [
+        "Built single page app in using Backbone.js + Marionette.js, with a Parse backend. The app incorporates Facebook authentication and utilizes Etsy's API to populate products",
+        "Used customer feedback, mentorship, and field experts to focus on product marketing, customer segmentation, and developing the algorithm",
+        "Integrated user feedback to refactor user interface and refine the algorithm after launching our MVP"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northwestern University",
+      "area": "Computer Science and Applied Mathematics",
+      "studyType": "Bachelors of Science",
+      "startDate": "2010-09-01",
+      "endDate": "2015-06-01",
+      "gpa": "3.6, Cum Laude",
+      "courses": [
+        "EECS450 - Internet Security",
+        "EECS354 - Network Penetration",
+        "EECS471 - NUVention: Web",
+        "EECS330 - HCI",
+        "EECS395 - Game Development",
+        "EECS339 - Intro to Databases",
+        "EECS340 - Intro to Networking",
+        "IEMS304 - Data Mining"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Programming with a Purpose: Crowdsourced coding as an authentic learning tool",
+      "publisher": "",
+      "releaseDate": "2015-06-12",
+      "website": "https://dl.dropboxusercontent.com/u/5597396/PWAP%20CSCW%20Final.pdf",
+      "summary": "Web app for real-time CSS living-style-guide creation"
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "Web Performance Optimization",
+        "Javascript Design Patterns",
+        "Responsive Design",
+        "Progressive Enhancement",
+        "Cross-Browser Compatibility",
+        "Test-Driven Development",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Proficient Languages",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "CSS3",
+        "HTML5",
+        "PHP",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Familiar Languages",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "Perl",
+        "Lisp",
+        "MATLAB",
+        "R"
+      ]
+    },
+    {
+      "name": "Javascript Libraries/Tools",
+      "level": "",
+      "keywords": [
+        "Node",
+        "Gulp",
+        "Browserify",
+        "RequireJS",
+        "jQuery",
+        "Backbone",
+        "Lodash",
+        "Highcharts",
+        "Raphaeljs",
+        "PhantomJS",
+        "Socket.io",
+        "Karma",
+        "Mocha",
+        "ESLint"
+      ]
+    },
+    {
+      "name": "Other Extensions and Tools",
+      "level": "",
+      "keywords": [
+        "Unix",
+        "Git",
+        "Sass",
+        "Redis",
+        "MongoDB",
+        "Sublime Text",
+        "IntelliJ IDEA"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Musicals",
+        "Rubik's Cubes",
+        "Minecraft"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Yulia Peet",
+      "reference": "Ben has done great work with me as an undergraduate research assistant in summer 2011 in Northwestern. He is brilliant. I think, he is the smartest student I've ever worked with. He is creative, reliable, independent, and out-going. Hire him, and you won't have regrets!!!"
+    }
+  ]
+}
