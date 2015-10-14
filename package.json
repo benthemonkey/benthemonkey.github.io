@@ -1,10 +1,10 @@
 {
   "name": "benthemonkey.github.io",
   "version": "0.0.1",
-  "description": "![Profile Picture](http://gravatar.com/avatar/bb85bdc9929091511bb94b3660afc44f.png?s=200)",
+  "description": "Ben Rothman Homepage",
   "main": "resume.json",
   "scripts": {
-    "start": "./node_modules/resume-cli/index.js export -t eloquent index.html"
+    "start": "./node_modules/resume-cli/index.js export -t eloquent index.html;sed '/^<\\/body/,/^<\\/html/ d' index.html > tmp;cat tmp tracking.txt > index.html;rm tmp"
   },
   "repository": {
     "type": "git",
