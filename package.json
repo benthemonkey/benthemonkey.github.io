@@ -1,0 +1,22 @@
+{
+  "name": "benthemonkey.github.io",
+  "version": "0.0.1",
+  "description": "![Profile Picture](http://gravatar.com/avatar/bb85bdc9929091511bb94b3660afc44f.png?s=200)",
+  "main": "resume.json",
+  "scripts": {
+    "start": "./node_modules/resume-cli/index.js export -t eloquent index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benthemonkey/benthemonkey.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benthemonkey/benthemonkey.github.io/issues"
+  },
+  "homepage": "https://github.com/benthemonkey/benthemonkey.github.io#readme",
+  "dependencies": {
+    "resume-cli": "^0.4.8"
+  }
+}

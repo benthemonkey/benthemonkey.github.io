@@ -5,7 +5,7 @@
     "email": "BenSRothman@gmail.com",
     "phone": "(847) 920 - 8236",
     "picture": "http://gravatar.com/avatar/bb85bdc9929091511bb94b3660afc44f.png?s=200",
-    "website": "http://www.bensrothman.com",
+    "website": "",
     "summary": "I am a detail-oriented developer with a focus on producing clean, modular, and—above all—maintainable code. Fun fact: During my first year at Northwestern University, I constructed the university's Evanston Campus in the video game Minecraft and printed it in 3D.",
     "location": {
       "address": "",
@@ -87,11 +87,22 @@
   ],
   "volunteer": [
     {
+      "organization": "Sass-Lint",
+      "position": "Sass Tools",
+      "website": "https://github.com/sasstools/sass-lint",
+      "startDate": "2015-10-06",
+      "endDate": "",
+      "summary": "A Node-only Sass linter for both sass and scss syntax",
+      "highlights": [
+        "Contributer"
+      ]
+    },
+    {
       "organization": "Points Center",
       "position": "Slivka Residential College",
       "website": "http://slivka.northwestern.edu/points/",
       "startDate": "2013-03-01",
-      "endDate": "",
+      "endDate": "2014-06-01",
       "summary": "Provides quick access to student's event attendance points, which are used to determine housing eligibility.",
       "highlights": [
         "Utilizes PHP, MySQL for backend",
