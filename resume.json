@@ -43,7 +43,6 @@
       "position": "Software Developer",
       "website": "http://www.shmoop.com",
       "startDate": "2015-07-01",
-      "endDate": "",
       "highlights": [
         "Migrated legacy search and video transcoding services to reusable API",
         "Front-end optimization, including reducing size of served Stylesheets by 30%"
@@ -91,7 +90,6 @@
       "position": "Sass Tools",
       "website": "https://github.com/sasstools/sass-lint",
       "startDate": "2015-10-06",
-      "endDate": "",
       "summary": "A Node-only Sass linter for both sass and scss syntax",
       "highlights": [
         "Contributer"
@@ -120,6 +118,18 @@
         "Built single page app in using Backbone.js + Marionette.js, with a Parse backend. The app incorporates Facebook authentication and utilizes Etsy's API to populate products",
         "Used customer feedback, mentorship, and field experts to focus on product marketing, customer segmentation, and developing the algorithm",
         "Integrated user feedback to refactor user interface and refine the algorithm after launching our MVP"
+      ]
+    },
+    {
+      "organization": "Northwestern in Minecraft",
+      "position": "Hobby",
+      "website": "http://www.mccormick.northwestern.edu/magazine/fall-2012/printed-in-3d.html",
+      "startDate": "2011-12-01",
+      "endDate": "2012-06-01",
+      "summary": "Northwestern University Evanston Campus built in Minecraft and printed in 3D",
+      "highlights": [
+        "Spent ~600 painstakingly replicating all aspects of campus",
+        "3D print is on display in the lobby of the largest building on campus"
       ]
     }
   ],
