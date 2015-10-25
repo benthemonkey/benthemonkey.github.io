@@ -6,7 +6,7 @@
     "phone": "(847) 920 - 8236",
     "picture": "http://gravatar.com/avatar/bb85bdc9929091511bb94b3660afc44f.png?s=128",
     "website": "",
-    "summary": "I am a detail-oriented developer with a focus on producing clean, modular, and—above all—maintainable code. Fun fact: During my first year at Northwestern University, I constructed the university's Evanston Campus in the video game Minecraft and printed it in 3D.",
+    "summary": "I am a detail-oriented developer with a focus on producing clean, modular, and—above all—maintainable code.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -104,7 +104,7 @@
       "summary": "Provides quick access to student's event attendance points, which are used to determine housing eligibility.",
       "highlights": [
         "Utilizes PHP, MySQL for backend",
-        "Frontend implemented using Grunt (then Gulp), jQuery, Highcharts, DataTables, etc."
+        "Front-end implemented using Grunt (then Gulp), jQuery, Highcharts, DataTables, etc."
       ]
     },
     {
@@ -128,7 +128,7 @@
       "endDate": "2012-06-01",
       "summary": "Northwestern University Evanston Campus built in Minecraft and printed in 3D",
       "highlights": [
-        "Spent ~600 painstakingly replicating all aspects of campus",
+        "Spent ~600 hours replicating all aspects of campus",
         "3D print is on display in the lobby of the largest building on campus"
       ]
     }
@@ -182,6 +182,7 @@
       "level": "",
       "keywords": [
         "Javascript",
+        "Sass",
         "CSS3",
         "HTML5",
         "PHP",
@@ -228,7 +229,6 @@
       "keywords": [
         "Unix",
         "Git",
-        "Sass",
         "Redis",
         "MongoDB",
         "Sublime Text",
