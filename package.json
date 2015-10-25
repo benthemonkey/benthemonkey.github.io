@@ -4,7 +4,7 @@
   "description": "Ben Rothman Homepage",
   "main": "resume.json",
   "scripts": {
-    "start": "./node_modules/resume-cli/index.js export -t eloquent index.html;sed '/^<\\/body/,/^<\\/html/ d' index.html > tmp;cat tmp tracking.txt > index.html;rm tmp"
+    "start": "node index.js > index.html"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/benthemonkey/benthemonkey.github.io#readme",
   "dependencies": {
-    "resume-cli": "^0.4.8"
+    "jsonresume-theme-eloquent": "^1.2.0"
   }
 }
