@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/benthemonkey/benthemonkey.github.io#readme",
   "dependencies": {
-    "jsonresume-theme-eloquent": "^1.2.0"
+    "jsonresume-theme-eloquent": "^2.0.0"
   }
 }
