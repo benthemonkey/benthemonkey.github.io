@@ -44,6 +44,7 @@
       "website": "http://www.shmoop.com",
       "startDate": "2015-07-01",
       "highlights": [
+        "Improved front-end workflow with tooling for easier cross-browser, responsive testing",
         "Migrated legacy search and video transcoding services to reusable API",
         "Front-end optimization, including reducing size of served Stylesheets by 30%"
       ]
@@ -174,14 +175,16 @@
         "Progressive Enhancement",
         "Cross-Browser Compatibility",
         "Test-Driven Development",
+        "Continuous Integration",
         "Agile Methodologies"
       ]
     },
     {
-      "name": "Proficient Languages",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "Javascript",
+        "ES6",
         "Sass",
         "CSS3",
         "HTML5",
@@ -191,35 +194,38 @@
       ]
     },
     {
-      "name": "Familiar Languages",
+      "name": "Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "C#",
-        "Perl",
-        "Lisp",
-        "MATLAB",
-        "R"
+        "Bootstrap 3",
+        "Backbone.js",
+        "Node.js + Express",
+        "Flask",
+        "Django",
+        "React (beginner)",
+        "Meteor (beginner)"
       ]
     },
     {
-      "name": "Javascript Libraries/Tools",
+      "name": "Javascript Libraries",
       "level": "",
       "keywords": [
-        "Node",
         "Gulp",
+        "Grunt",
+        "Webpack",
         "Browserify",
         "RequireJS",
         "jQuery",
-        "Backbone",
-        "Lodash",
         "Highcharts",
+        "DataTables",
         "Raphaeljs",
-        "PhantomJS",
         "Socket.io",
+        "PhantomJS",
+        "Typeahead.js",
+        "Lodash",
         "Karma",
         "Mocha",
+        "Chai",
         "ESLint"
       ]
     },
@@ -231,8 +237,7 @@
         "Git",
         "Redis",
         "MongoDB",
-        "Sublime Text",
-        "IntelliJ IDEA"
+        "AWS"
       ]
     }
   ],
