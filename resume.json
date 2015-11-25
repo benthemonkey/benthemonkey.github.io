@@ -22,7 +22,7 @@
       },
       {
         "network": "LinkedIn",
-        "username": "bensrothman@gmail.com",
+        "username": "bensrothman",
         "url": "http://www.linkedin.com/in/bensrothman"
       },
       {
@@ -35,7 +35,7 @@
   "work": [
     {
       "company": "Shmoop University Inc",
-      "position": "Software Developer",
+      "position": "Software Engineer",
       "website": "http://www.shmoop.com",
       "startDate": "2015-07-01",
       "highlights": [
@@ -45,25 +45,14 @@
       ]
     },
     {
-      "company": "Delta Lab - Northwestern University",
-      "position": "Undergraduate Researcher",
-      "website": "http://delta.northwestern.edu/",
-      "startDate": "2014-09-01",
-      "endDate": "2015-03-01",
-      "highlights": [
-        "Research and Development with a small team to create crowdsourced learning platform",
-        "Prototyped application that supports real-time CSS living-style-guide creation"
-      ]
-    },
-    {
       "company": "Shmoop University Inc",
-      "position": "Software Development Co-op",
+      "position": "Software Engineering Co-op",
       "website": "http://www.shmoop.com",
       "startDate": "2012-06-01",
       "endDate": "2014-09-01",
       "summary": "",
       "highlights": [
-        "Proposed and lead effort to overhaul front-end with modular, concise JS/CSS. Began migration to Bootstrap 3, Sass, Gulp + Browserify and established code quality/style guidelines",
+        "Proposed and lead effort to overhaul front-end with modular, concise JS/CSS. Began migration to Bootstrap 3, Sass, Gulp and Browserify. Established code quality/style guidelines",
         "Oversaw new interns’ contributions to Math Shack (JavaScript math tutoring system, began 2012). Enforced code quality standards and reviewed interns’ code for efficiency and clarity",
         "Spotted bottlenecks in web stack by creating a load testing method with AWS micro-instances",
         "Created a scalable, real-time data analytics dashboard with Node and Redis",
@@ -83,14 +72,24 @@
   "volunteer": [
     {
       "organization": "Sass Lint",
-      "position": "Sass Tools",
+      "position": "Contributor to Open-Source Library",
       "website": "https://github.com/sasstools/sass-lint",
       "startDate": "2015-10-06",
-      "summary": "A Node-only Sass linter for both sass and scss syntax",
+      "summary": "A Node-only Sass linter for both Sass and SCSS syntax",
       "highlights": [
-        "Contributor to Open-Source Library",
-        "Adding linting rules, with full test coverage, which promote maintainable stylesheets",
-        "Wrote tool for migrating linter settings from the popular Ruby scss linter"
+        "Added linting rules, with full test coverage, which promote maintainable stylesheets",
+        "Wrote tool for migrating linter settings from the popular Ruby SCSS linter"
+      ]
+    },
+    {
+      "organization": "Programming with a Purpose",
+      "position": "Northwestern Delta Lab",
+      "website": "https://dl.dropboxusercontent.com/u/5597396/PWAP%20CSCW%20Final.pdf",
+      "startDate": "2014-09-01",
+      "endDate": "2015-03-01",
+      "highlights": [
+        "Research and development with a small team to create crowdsourced learning platform",
+        "Prototyped application that supports real-time CSS living-style-guide creation"
       ]
     },
     {
@@ -99,10 +98,9 @@
       "website": "http://slivka.northwestern.edu/points/",
       "startDate": "2013-03-01",
       "endDate": "2014-06-01",
-      "summary": "Provides quick access to student's event attendance points, which are used to determine housing eligibility.",
       "highlights": [
-        "Utilizes PHP, MySQL for backend",
-        "Front-end implemented using Grunt (then Gulp), jQuery, Highcharts, DataTables, etc."
+        "Provided access to student's event attendance points, used to determine housing eligibility.",
+        "Utilized PHP, MySQL, Grunt (then Gulp), jQuery, Highcharts, DataTables, and more"
       ]
     },
     {
@@ -114,20 +112,18 @@
       "summary": "\"Translating your relationships into gifts crafted with love.\" Giftique is a gift recommendation engine leveraging user input and social media platforms to deliver unique and thoughtful gifts. Part of NUvention:Web course through Northwestern's Farley Center for Innovation and Entrepreneurship.",
       "highlights": [
         "Built single page app in using Backbone.js + Marionette.js, with a Parse backend. The app incorporates Facebook authentication and utilizes Etsy's API to populate products",
-        "Used customer feedback, mentorship, and field experts to focus on product marketing, customer segmentation, and developing the algorithm",
-        "Integrated user feedback to refactor user interface and refine the algorithm after launching our MVP"
+        "Used customer feedback, mentorship, and field experts to focus on product marketing, customer segmentation, and algorithm development"
       ]
     },
     {
-      "organization": "Northwestern in Minecraft",
+      "organization": "Northwestern Evanston Campus in Minecraft",
       "position": "Hobby",
       "website": "http://www.mccormick.northwestern.edu/magazine/fall-2012/printed-in-3d.html",
       "startDate": "2011-12-01",
       "endDate": "2012-06-01",
-      "summary": "Northwestern University Evanston Campus built in Minecraft and printed in 3D",
       "highlights": [
-        "Spent ~600 hours replicating all aspects of campus",
-        "3D print is on display in the lobby of the largest building on campus"
+        "Devoted in excess of 600 hours replicating all aspects of campus within video game",
+        "Printed results as 3D model which is now on display in the lobby of the largest building on campus"
       ]
     }
   ],
@@ -196,7 +192,7 @@
       "name": "Frameworks",
       "level": "",
       "keywords": [
-        "Bootstrap 3",
+        "Bootstrap",
         "Backbone.js",
         "Node.js + Express",
         "Flask",
@@ -209,20 +205,18 @@
       "name": "JavaScript Libraries",
       "level": "",
       "keywords": [
+        "jQuery",
         "Gulp",
         "Grunt",
-        "Webpack",
         "Browserify",
         "RequireJS",
-        "jQuery",
         "Highcharts",
         "DataTables",
-        "Raphaeljs",
+        "Raphael",
         "Socket.io",
         "PhantomJS",
         "Typeahead.js",
         "Lodash",
-        "Karma",
         "Mocha",
         "Chai",
         "ESLint",
