@@ -36,6 +36,7 @@
     {
       "company": "Shmoop University Inc",
       "position": "Software Engineer",
+      "summary": "Mountain View, CA (Remote)",
       "website": "http://www.shmoop.com",
       "startDate": "2015-07-01",
       "highlights": [
@@ -47,10 +48,10 @@
     {
       "company": "Shmoop University Inc",
       "position": "Software Engineering Co-op",
+      "summary": "Mountain View, CA (On Site)",
       "website": "http://www.shmoop.com",
       "startDate": "2012-06-01",
       "endDate": "2014-09-01",
-      "summary": "",
       "highlights": [
         "Proposed and lead effort to overhaul front-end with modular, concise JS/CSS. Began migration to Bootstrap 3, Sass, Gulp and Browserify. Established code quality/style guidelines",
         "Oversaw new interns’ contributions to Math Shack (JavaScript math tutoring system, began 2012). Enforced code quality standards and reviewed interns’ code for efficiency and clarity",
@@ -70,6 +71,13 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Rock Paper Scissors Lizard Spock",
+      "position": "Hobbie",
+      "website": "rpsls.meteor.com",
+      "startDate": "2015-11-28",
+      "summary": "Real-time multiplayer game implemented using Meteor, React, and MongoDB"
+    },
     {
       "organization": "Sass Lint",
       "position": "Contributor to Open-Source Library",
@@ -177,7 +185,7 @@
       "level": "",
       "keywords": [
         "JavaScript",
-        "ES6 (beginner)",
+        "ES6",
         "Sass",
         "CSS3",
         "HTML5",
@@ -197,8 +205,8 @@
         "Node.js + Express",
         "Flask",
         "Django",
-        "React (beginner)",
-        "Meteor (beginner)"
+        "React",
+        "Meteor"
       ]
     },
     {
