@@ -74,7 +74,7 @@
     {
       "organization": "Rock Paper Scissors Lizard Spock",
       "position": "Hobbie",
-      "website": "rpsls.meteor.com",
+      "website": "http://rpsls.meteor.com",
       "startDate": "2015-11-28",
       "summary": "Real-time multiplayer game implemented using Meteor, React, and MongoDB"
     },
